@@ -8,10 +8,10 @@ This project conducted a comprehensive analysis of Blinkit's sales data. It invo
 ---
 The dashboard focuses on the following primary KPIs:
 
-Total Sales: Overall revenue generated from all items sold ($1.20M)
-Average Sales: Average revenue per sale ($141)
-Number of Items: Total count of different items sold (8523)
-Average Rating: Average customer rating for items sold (3.9 out of 5)
+- Total Sales: Overall revenue generated from all items sold ($1.20M)
+- Average Sales: Average revenue per sale ($141)
+- Number of Items: Total count of different items sold (8523)
+- Average Rating: Average customer rating for items sold (3.9 out of 5)
 
 ### Features
 ---
